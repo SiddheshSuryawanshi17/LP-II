@@ -12,3 +12,5 @@ System.debug(celsius + ' degrees Celsius is equal to ' + fahrenheit + ' degrees 
 
 https://cloud-computing-lab-gae.el.r.appspot.com/
 
+Custom App Salesforce-> 
+https://chatgpt.com/share/6a0acbb4-528c-8320-b4e1-f688efed31e6
