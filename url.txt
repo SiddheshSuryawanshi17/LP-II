@@ -1,7 +1,7 @@
 https://innovation-connect-3411.my.salesforce.com/_ui/common/apex/debug/ApexCSIPage
 https://orgfarm-fa6227185e-dev-ed.develop.lightning.force.com/lightning/n/devedapp__Welcome
 
-Code -> // Define the temperature in degrees Celsius
+// Define the temperature in degrees Celsius
 Decimal celsius = 25.0; 
 
 // Apply the conversion formula: F = (C * 1.8) + 32
